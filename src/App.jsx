@@ -4,6 +4,7 @@ import Herobar from './components/Herobar';
 import MySkills from './components/MySkills';
 import MyProjects from './components/MyProjects';
 import Contact from './components/Contact';
+import FloatingSocials from './components/FloatingSocials';
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
          <MySkills />
          <MyProjects />
          <Contact />
+         <FloatingSocials />
 
      </>
           
