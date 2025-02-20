@@ -3,7 +3,7 @@ import mikepic from '../assets/images/michael-idam.png';
 
 const Herobar = () => {
   return (
-    <section className="bg-white py-20 mb-4">
+    <section id="about" className="bg-white py-20 mb-4">
       <div
         className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex md:flex-row flex-col items-center"
       >
@@ -16,8 +16,8 @@ const Herobar = () => {
           >
             I'm <span className='text-indigo-600'> Michael Idam</span> 
           </h1>
-          <p className="my-4 text-xl text-dark">
-          I am a passionate Full-Stack Web Developer with 3 years of experience building dynamic, high-performance web applications and solutions.
+          <p className="my-4 text-dark mb-2 text-base leading-relaxed text-body-color text-justify">
+          I am a Full-Stack Web Developer with 3 years of experience building dynamic, high-performance web applications and solutions.
            My expertise spans JavaScript, ReactJS, TailwindCSS, PHP, and Laravel, enabling me to create scalable front-end interfaces and robust 
            back-end architectures. I thrive in problem-solving, optimizing performance, and delivering seamless user experiences. 
            Whether developing from scratch or improving existing systems, I am dedicated to crafting efficient, maintainable, cutting-edge web 

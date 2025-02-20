@@ -6,7 +6,7 @@ import solar from '../assets/images/solar_company.png';
 
 const MyProjects = () => {
   return (
-    <section className="bg-gray-2 pb-10 pt-20 lg:pb-20 lg:pt-[120px] dark:bg-dark">
+    <section id="projects" className="bg-gray-2 pb-10 pt-20 lg:pb-20 lg:pt-[120px] dark:bg-dark">
           <div className="container mx-auto">
           <h3 className="text-center text-4xl font-bold text-indigo-700 px-3 py-3 mb-8">My Projects</h3>
           <p class="text-base text-body-color dark:text-dark-6">

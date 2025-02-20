@@ -10,7 +10,7 @@ import php from '../assets/images/php.jpg';
 const MySkills = () => {
   return (
 
-    <section className="bg-gray-2 pb-10 pt-20 lg:pb-20 lg:pt-[120px] dark:bg-dark">
+    <section id="skills" className="bg-gray-2 pb-10 pt-20 lg:pb-20 lg:pt-[120px] dark:bg-dark">
       <div className="container mx-auto">
       <h3 className="text-center text-4xl font-bold text-indigo-700 px-3 py-3 mb-8">My Skills</h3>
         <div className="-mx-4 flex flex-wrap mb-8">

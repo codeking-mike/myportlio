@@ -35,8 +35,8 @@ const Navbar = () => {
                 <a href="#experience"
                   className="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2">Experience
                 </a>
-                <a href="#education"
-                  className="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2">Education
+                <a href="#contacts"
+                  className="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2">Contac Me
                 </a>
               </div>
             </div>
@@ -59,8 +59,8 @@ const Navbar = () => {
                        <a href="#experience"
                          className="text-indigo-600  hover:bg-indigo-800 hover:text-whitee rounded-md px-3 py-2">Experience
                        </a>
-                       <a href="#education"
-                         className="text-indigo-600 hover:bg-indigo-800 hover:text-white rounded-md px-3 py-2">Education
+                       <a href="#contacts"
+                         className="text-indigo-600 hover:bg-indigo-800 hover:text-white rounded-md px-3 py-2">Contacts
                        </a>
                      </div>
             )}
